@@ -1,0 +1,25 @@
+function contador(id, fim){
+
+let numero=0;
+
+let intervalo=setInterval(function(){
+
+numero++;
+
+document.getElementById(id).innerHTML=numero;
+
+if(numero>=fim){
+
+clearInterval(intervalo);
+
+}
+
+},20);
+
+}
+
+contador("contador1",500);
+
+contador("contador2",250);
+
+contador("contador3",80);

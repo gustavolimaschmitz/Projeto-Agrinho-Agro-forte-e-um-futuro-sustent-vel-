@@ -1,71 +1,47 @@
-body{
-margin:0;
-font-family:Arial;
-background:#f5f0e1;
-color:#333;
-}
+🌱 Agrinho 2026
+Sustentabilidade Agricultura Tecnologia Campo e Cidade Agricultura Familiar Preservação
+Agro Forte, Futuro Sustentável
+Produzir alimentos preservando a natureza é o caminho para um futuro melhor.
 
-header{
-background:#5c4033;
-color:white;
-padding:20px;
-text-align:center;
-}
+Sustentabilidade
+A sustentabilidade no campo busca produzir alimentos utilizando os recursos naturais de forma consciente, preservando o meio ambiente para as futuras gerações.
 
-nav a{
-color:white;
-text-decoration:none;
-margin:10px;
-font-weight:bold;
-}
+Agricultura
+A agricultura fornece alimentos, matérias-primas e movimenta a economia brasileira, sendo essencial para o desenvolvimento do país.
 
-.banner{
-background:url("https://images.unsplash.com/photo-1500382017468-9049fed747ef") center/cover;
-height:400px;
-display:flex;
-flex-direction:column;
-justify-content:center;
-align-items:center;
-color:white;
-text-shadow:2px 2px 5px black;
-}
+Tecnologia no Campo
+Drones, GPS, máquinas modernas e sensores ajudam os produtores a aumentar a produtividade e reduzir desperdícios.
 
-section{
-padding:40px;
-}
+Campo e Cidade
+O campo produz os alimentos que chegam diariamente às cidades, mostrando a importância dessa parceria.
 
-h2{
-color:#2e6b2e;
-}
+Agricultura Familiar
+A agricultura familiar é responsável por grande parte dos alimentos consumidos pelos brasileiros e fortalece a economia local.
 
-.contadores{
-display:flex;
-justify-content:space-around;
-background:#d8c3a5;
-text-align:center;
-}
+Preservação Ambiental
+Práticas como plantio direto, reflorestamento e proteção das nascentes ajudam a conservar a biodiversidade.
 
-.contadores h3{
-font-size:45px;
-color:#2e6b2e;
-}
+0
+Árvores Plantadas
 
-.galeria{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:15px;
-}
+0
+Famílias Beneficiadas
 
-.galeria img{
-width:100%;
-height:220px;
-object-fit:cover;
-border-radius:10px;
-}
+0
+Projetos Sustentáveis
 
-footer{
-background:#5c4033;
-color:white;
-text-align:center;
-padding:20px;
-}
+Galeria
+   
+Curiosidades
+🌾 O Brasil é um dos maiores produtores agrícolas do mundo.
+🚜 O uso de drones ajuda a economizar água e fertilizantes.
+🌳 O plantio direto reduz a erosão do solo.
+🌱 A agricultura familiar produz grande parte dos alimentos consumidos no Brasil.
+Agrinho 2026
+Projeto desenvolvido para o Programa Agrinho.
+
+Desenvolvido por: Seu Nome
+
+Email: seuemail@email.com
+
+© 2026 Todos os direitos reservados.
